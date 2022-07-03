@@ -1,4 +1,6 @@
-### Hi!
+### Hi, I'm Fernanda 👋🏻!
+I'm a Full Stack Web Developer.
+I'm always learning. I love technology, coffee and solving problems.
 
  <div>
   <a href="https://github.com/Fernandabitten">
