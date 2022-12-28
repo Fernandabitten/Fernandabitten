@@ -29,7 +29,7 @@ I'm always learning. I love technology, coffee and solving problems.
 <div>   
   <a href="https://www.linkedin.com/in/fernandabbittencourt/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:fernandab.bittencourt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://codepen.io/ferbitt/pens/popular"target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="30px" target="_blank"></a> 
+   <a href="https://codepen.io/ferbitt/pens/public"target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="30px" target="_blank"></a> 
 </div>
 
 
