@@ -22,6 +22,7 @@ I'm always learning. I love technology, coffee and solving problems.
   <img align="center" alt="Fer-Vuejs" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor">
   <img align="center" alt="Fer-Vuetify" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg">
   <img align="center" alt="Fer-Vuetify" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
  
 ---
